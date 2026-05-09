@@ -24,7 +24,7 @@ The API allows users to:
 # Api Testing
 
 1. Add School
-- https://develop-node-js-apis-for-school-p4o4.onrender.com/addSchool
+ https://develop-node-js-apis-for-school-p4o4.onrender.com/addSchool
 - Request Body
 - {
   "name": "Delhi Public School",
@@ -39,7 +39,7 @@ The API allows users to:
 }
 
 2. Get List Schools
-- https://develop-node-js-apis-for-school-p4o4.onrender.com/listSchools?latitude=28.608235&longitude=77.376030
+    https://develop-node-js-apis-for-school-p4o4.onrender.com/listSchools?latitude=28.608235&longitude=77.376030
 - {
     "success": true,
     "count": 6,
